@@ -7,5 +7,5 @@ In a highly-collobarative effort, ThInK mechanisms are constructed primarily wit
 | Mechanism               | Description        |
 |-------------------------|--------------------|
 | Core Mechanisms         | C0-C3              |
-| n-Butane Mechanisms     | in preperation     |
-| NOx Mechanisms          | in preperation     |
+| n-Butane Mechanisms     | in preparation     |
+| NOx Mechanisms          | in preparation     |
