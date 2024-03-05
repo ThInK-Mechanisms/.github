@@ -1,11 +1,11 @@
 # ThInK Mechanisms: Theory Informed Kinetic Mechanisms
 
 ## Philosophy
-In a highly-collobarative effort, ThInK mechanisms are constructed primarily with modern Master Equation computations for complex multiple-well multi-channel reactions and rigorous pressure dependence and supplemented with theory-informed estimated parameters and experimental measurements. They additionally include theory-informed thermodynamic properties (e.g., sourced from purely ab initio heats of formation and partition functions) and transport properties (e.g., computed Lennard-Jones collision parameters).
+ThInK mechanisms are constructed primarily from modern Master Equation computations of first principles rate constants for complex multiple-well multi-channel reactions with rigorous pressure dependence. They are supplemented with theory-informed thermodynamic properties (e.g., sourced from ab initio heats of formation and partition functions) and transport properties (e.g., computed Lennard-Jones collision parameters) as well as data from experimental measurements.
 
 ## Available Mechanisms
-| Mechanism               | Description        |
-|-------------------------|--------------------|
-| Core Mechanisms         | C0-C3              |
-| n-Butane Mechanisms     | in preparation     |
-| NOx Mechanisms          | in preparation     |
+| Mechanism              | Description       |
+|------------------------|-------------------|
+| Core Mechanism         | C0-C3             |
+| n-Butane Mechanism     | in preparation    |
+| NOx Mechanism          | in preparation    |
